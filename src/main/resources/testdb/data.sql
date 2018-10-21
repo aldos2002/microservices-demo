@@ -1,4 +1,3 @@
-
 insert into T_ACCOUNT (NUMBER, NAME) values ('123456789', 'Keri Lee');
 insert into T_ACCOUNT (NUMBER, NAME) values ('123456001', 'Dollie R. Schnidt');
 insert into T_ACCOUNT (NUMBER, NAME) values ('123456002', 'Cornelia J. LeClerc');
